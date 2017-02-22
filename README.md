@@ -136,7 +136,7 @@ How do we determine which selector to use to retrieve the desired information? R
 
 This nice, big, bold statement, "350+ lives changed, and counting.", looks like a pretty good candidate. 
 
-In order to identify its CSS selector, you click on the magnifying class icon on the top left of the element inspector view and hover it over the element we want to ID ("350+ lives changed, and counting.")
+In order to identify its CSS selector, you click on the magnifying glass icon on the top left of the element inspector view and hover it over the element we want to ID ("350+ lives changed, and counting.")
 
 That highlights its HTML element for us. Notice that: 
 
